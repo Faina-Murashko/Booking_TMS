@@ -1,4 +1,4 @@
-Feature: Search Hotel Vagar in Faroe islands
+Feature: Search Hotel Vagar
 
   Scenario: search hotel in Faroe islands using the site Booking.com
     Given name hotel in island "Hotel Vagar"
